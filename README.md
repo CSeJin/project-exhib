@@ -1,6 +1,6 @@
 # exhib: 전시의 일상화
 <p align="center">
-  ![main](https://github.com/CSeJin/project-exhib/assets/127668461/2ddf2657-18a2-49cd-b765-6c41d7797909)
+  <img src="https://github.com/CSeJin/project-exhib/assets/127668461/cddf6df4-5369-44bc-9071-92174e6cdb73">
 </p>
 
 ## 프로젝트 소개
