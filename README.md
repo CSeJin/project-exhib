@@ -3,19 +3,19 @@
   <img src="https://github.com/CSeJin/project-exhib/assets/127668461/cddf6df4-5369-44bc-9071-92174e6cdb73">
 </p>
 
-## 프로젝트 소개
+## :art: 프로젝트 소개
 한 곳에 가입해 여러 전시를 한 눈에 보고 간단하게 예매할 수 있는 웹사이트
 
 일반 회원도 전시를 등록할 수 있도록 해 등록&예매가 가능한 전시 플랫폼을 구현
 
 </br>
 
-## 기술 스택
+## :art: 기술 스택
 html5, css, java, jsp, mysql
 
 </br>
 
-## 구현 기능
+## :art: 구현 기능
 ### 1. 로그인
 DB 내 회원정보와 대조하여 인증
 
@@ -41,7 +41,7 @@ DB 내 회원정보와 대조하여 인증
 <img src="https://github.com/CSeJin/project-exhib/assets/127668461/5dcd2a72-3d02-4e6e-a802-9516469e221c">
 
 
-## 파일 설명
+## :art: 파일 설명
 ### DB
 <img src="https://github.com/CSeJin/project-exhib/assets/127668461/ba37503f-e833-4d4c-86a7-52e23c3bc5bd">
 
