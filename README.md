@@ -10,9 +10,11 @@
 > [파일 설명](#-파일-설명)
 
 ## 🎨 프로젝트 소개
-한 곳에 가입해 여러 전시를 한 눈에 보고 간단하게 예매할 수 있는 웹사이트
+누구나 전시를 열고, 보러갈 수 있는 전시회의 일상화, exhib
 
-일반 회원도 전시를 등록할 수 있도록 해 등록&예매가 가능한 전시 플랫폼을 구현
+한 곳에 가입해 여러 전시를 한 눈에 보고 간단하게 예매할 수 있는 플랫폼입니다.
+
+일반 회원도 전시를 등록할 수 있어 모든 회원이 소비자이자 생산자가 될 수 있습니다.
 
 <p align="center">
   <img src="https://github.com/CSeJin/project-exhib/assets/127668461/cddf6df4-5369-44bc-9071-92174e6cdb73">
@@ -50,6 +52,10 @@ DB 내 회원정보와 대조하여 인증
 
 <img src="https://github.com/CSeJin/project-exhib/assets/127668461/5dcd2a72-3d02-4e6e-a802-9516469e221c">
 
+</br>
+
+## 🎨 시현영상
+<a href="https://drive.google.com/file/d/1OoWzwI686E2XJdJy7kCXL1A0Xq2WAkwd/view?usp=sharing">시현영상 보러가기</a>
 
 ## 🎨 파일 설명
 ### DB
