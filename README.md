@@ -18,7 +18,6 @@
   <img src="https://github.com/CSeJin/project-exhib/assets/127668461/cddf6df4-5369-44bc-9071-92174e6cdb73">
 </p>
 
-> [ppt 보기](https://drive.google.com/file/d/1nTTIBt5zc3khO-GGIi58pkVe4Kaqxeho/view?usp=sharing)
 </br>
 
 ## 🎨 기술 스택
