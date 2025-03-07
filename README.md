@@ -57,6 +57,8 @@ DB 내 회원정보와 대조하여 인증
 ## 🎨 시현영상
 <a href="https://drive.google.com/file/d/1OoWzwI686E2XJdJy7kCXL1A0Xq2WAkwd/view?usp=sharing">시현영상 보러가기</a>
 
+</br>
+
 ## 🎨 파일 설명
 ### DB
 <img src="https://github.com/CSeJin/project-exhib/assets/127668461/ba37503f-e833-4d4c-86a7-52e23c3bc5bd">
